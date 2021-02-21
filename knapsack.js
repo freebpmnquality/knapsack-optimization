@@ -1,4 +1,4 @@
-const { PerformanceObserver, performance } = require('perf_hooks');
+const { performance } = require("perf_hooks");
 
 const knapsackSolver = {
 	size: 0,
